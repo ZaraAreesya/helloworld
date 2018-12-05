@@ -1,0 +1,54 @@
+
+body {
+    background-image: url("https://www.xmple.com/wallpaper/purple-blue-gradient-linear-1920x1080-c2-add8e6-9966cc-a-345-f-14.svg")
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: !important;
+    text-align: center;
+    font-size:300%;
+    padding:100px;
+    margin: 10px;
+
+    
+}
+
+
+p  {
+    color: rgb(255, 255, 255);
+    font-family: inherit;
+    font-size:150%;
+    border:5px solid black;
+    padding:30px;
+    margin: 50px;
+    
+}
+
+#p01{
+    color:Lightblue;
+    font-family: inherit; 
+}
+
+.good{
+    font-size: 60%;
+    background-color:pink;
+    
+}
+
+a:link {
+    color:red;
+}
+
+a:visited {
+    color:yellow;
+    
+}
+
+a:hover{
+    color:black;
+}
+
+tablqe, th,tr{
+    
+}
